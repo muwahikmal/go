@@ -12,7 +12,7 @@ const (
     password = "password"
     hostname = "localhost"
     port     = "3306"
-    dbname   = "example_database"
+    dbname   = "dbgo"
 )
 
 // User struct representing data structure for user
